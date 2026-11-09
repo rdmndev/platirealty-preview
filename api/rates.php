@@ -1,1 +1,1 @@
-{"rates":{"AED":22.77,"CNY":12.53,"EUR":93.43,"JPY":0.5292,"KGS":0.9563,"KRW":0.062,"KZT":0.1863,"USD":83.64},"rateDate":"09.11.2026","fetchedAt":"2026-11-09T07:55:08.855Z","source":"https://platiauto.ru/"}
+{"rates":{"AED":22.88,"CNY":12.59,"EUR":94.16,"JPY":0.5317,"KGS":0.9606,"KRW":0.0625,"KZT":0.187,"USD":84.01},"rateDate":"09.11.2026","fetchedAt":"2026-11-09T18:43:48.131Z","source":"https://platiauto.ru/"}
